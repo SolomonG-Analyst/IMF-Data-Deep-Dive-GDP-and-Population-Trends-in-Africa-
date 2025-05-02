@@ -24,6 +24,5 @@ This project investigates GDP and population trends in African countries from 20
 - **Jupyter Notebook** – For analysis and experimentation
 - **Power BI (for other projects)** – Dashboard creation
 
-## 📁 Folder Structure
 
 
